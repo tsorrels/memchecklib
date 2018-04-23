@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "memcheck.h"
 
-
 void memexit();
 
 int main()
@@ -32,7 +31,6 @@ int main()
     
     return 0;
 }
-
 
 void memexit()
 {
